@@ -1,0 +1,34 @@
+
+   h1, h2 {
+color: black;
+font-size: 36px;
+margin-top: 20px;
+margin-bottom: 30px;
+margin-left: 30;
+margin-right: 30;
+border: solid blueviolet;
+text-align: center;
+   }
+   p{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+img{
+
+height: 320px;
+/* width: 200; */
+}
+em{
+    text-transform:uppercase;
+    font-style: initial;
+}
+body{
+    background-color: white;
+}
+   #first{
+       text-align: left;
+   }
+       .big {
+           font-size: 22;
+       }
+    

@@ -1,0 +1,115 @@
+
+h1{
+    color:rgb(157, 228, 233);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+h2{
+    font-family:'Montserrat', sans-serif;
+    color: grey;
+    text-align: center;
+    letter-spacing: 1px;
+    font-feature-settings: "vrt2";
+}
+.form-group{
+    color: rgb(74, 198, 207);
+    font-weight: bolder;
+}
+.form-group .form-check{
+color: black;
+font-weight: lighter ;
+}
+/* 
+#table1{
+    color:pink;
+    height: 100px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    background-color: purple;
+} */
+td{
+    text-align: center;
+}
+.jumbotron {
+    /* Background */
+    background-image: url(smile.png);
+    background-repeat: no-repeat;
+    width: auto;
+    height: 100%;
+}
+a:visited{
+    color: grey;
+}
+a:hover{
+    color: orange;
+}
+/* .btn-info{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+} */
+
+.navbar{
+    background-color:mintcream;
+}
+.navbar-brand{
+    font-weight: bolder;
+}
+.container .btn:hover {
+    background-color: black;
+}
+.submitembed-responsive embed-responsive-16by9 {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-origin: padding-box;
+}
+
+.statementhead{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+    font-weight: bolder;
+    font-size: large;
+}
+.col{
+    font-size: large; 
+    font-family: 'Oen Sans Condensed', sans-serif;
+    text-align: center;
+    letter-spacing: 2px;
+}
+.col{
+    background-color: rgb(255, 255, 255);
+}
+.servicebg h1{
+    background-color: white;
+    color: rgb(157, 228, 233);
+}
+.photo img{
+    height: 150px;
+}
+.photo{
+    text-align: center;
+    color:black;
+}
+.topic{
+    font-weight: bolder;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.detailbg{
+    background-color: rgba(254, 255, 246, 0.74);
+}
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
